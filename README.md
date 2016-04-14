@@ -3,4 +3,4 @@
 # Training Links
 ### Live link http://goo.gl/NwjStv 
 ### Google Slide link https://goo.gl/vGGYxr  
-### Examples link http://codepen.io/collection/DKwRvv/ 
+### Examples link http://goo.gl/6wAzPS 
